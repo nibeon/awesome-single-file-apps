@@ -14,3 +14,4 @@ Awesome single-file applications and tools (utilites, frameworks, etc.)
 - jQuery
 
 # on CSS
+- http://saeedalipoor.github.io/icono/ - Pure CSS icons
