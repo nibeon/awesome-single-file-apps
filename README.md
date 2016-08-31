@@ -8,7 +8,7 @@ Awesome single-file applications and tools (utilites, frameworks, etc.)
 - http://nirix.github.io/nanite/ - Simple PHP framework (nanoframework?)
 
 # on Python
-- Bottlepy - http://bottlepy.org/ - Bottle: Python Web Framework
+- http://bottlepy.org/ - Bottle: Python Web Framework
 
 # on JS
 - jQuery
