@@ -26,6 +26,9 @@ Awesome single-file applications and tools (utilites, frameworks, etc.)
 - http://cobalt-org.github.io - Cobalt.rs (rust)
 - https://www.getzola.org - Zola (rust)
 
+# for Gamedev
+- Godot game engine (main version, without mono)
+
 # utilites
 - https://frippery.org/busybox/ - busybox for Windows
 - 
